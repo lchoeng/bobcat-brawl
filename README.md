@@ -1,12 +1,25 @@
 # Bobcat Brawl
 
-A retro arcade fighting game starring the Mary Bragg crew: Jaiden, Ava, Linus, Bobcat, Dom, Audrey and Ayla.
+A retro arcade fighting game starring the Mary Bragg crew: Jaiden, Ava, Linus, Bobcat, Dom, Audrey, Ayla and Wesley.
 
 **Play:** https://lchoeng.github.io/bobcat-brawl/
 
 ## How it works
 
-Pick your fighter. The CPU picks your opponent at random, and it's never your own character. Win a best-of-three match to move on to the next random challenger. Beat all six to become the Bobcat Champion.
+Pick your fighter. The CPU picks your opponent at random, and it's never your own character. Win a best-of-three match to move on to the next random challenger. Beat all seven to become the Bobcat Champion.
+
+## Special moves
+
+| Fighter | Special |
+|---|---|
+| Jaiden | Bolt Dash |
+| Ava | Cap Boomerang |
+| Linus | Golden Fireball |
+| Bobcat | Wildcat Pounce |
+| Dom | Iron Spin |
+| Audrey | Sky Strike |
+| Ayla | Star Shower |
+| Wesley | Dino Roar |
 
 ## Install it like an app
 
@@ -19,11 +32,13 @@ Once installed it opens full screen and works offline.
 
 | Action | Phone | Keyboard |
 |---|---|---|
-| Move | ◀ ▶ | ← → |
-| Jump | ▲ JUMP | ↑ or Space |
+| Move | ◀ ▶ | ← → or A D |
+| Jump | ▲ | ↑, W or Space |
+| Duck | ▼ | ↓ or S |
 | Punch | PUNCH | Z |
 | Kick | KICK | X |
-| Block | Hold away from your opponent | Hold away from your opponent |
+| Special move (when the SP meter is full) | ★ SPECIAL | C |
+| Block | Hold away from your opponent (standing or ducking) | Hold away from your opponent |
 | Music on/off | ♪ | M |
 
 ## Hosting
